@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Prediction Results</title>
+    <style>
+         body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9; /* Light tone background */
+    color: #333333; /* Dark text color */
+}
+
+.header {
+    width: 100%;
+    padding: 20px;
+    background-color: #e0e0e0; /* Light gray header */
+    color: #333333; /* Dark header text */
+    text-align: center;
+    font-size: 24px;
+}
+
+.content {
+    width: 80%;
+    margin-top: 40px;
+    text-align: center;
+    color: #333333;
+}
+
+.name-info, .college-count {
+    font-size: 18px;
+    margin: 10px 0;
+    color: #333333;
+}
+
+.table-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    width: 100%;
+    max-width: 600px;
+    border-collapse: collapse;
+    background-color: #ffffff; /* White table background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+th, td {
+    padding: 12px;
+    text-align: center;
+    border: 1px solid #dddddd; /* Light gray border */
+    color: #333333; /* Dark text in table */
+}
+
+th {
+    background-color: #f2f2f2; /* Light header background for table */
+    font-weight: bold;
+    color: #333333; /* Dark text in header */
+}
+
+    </style>
+</head>
+<body>
+    <div class="header">College Prediction Results</div>
+
+    <div class="content">
+        <div class="name-info">Name: <span id="user-name">[User Name]</span></div>
+        <div class="college-count">Number of Colleges Considered: <span id="college-count">[College Count]</span></div>
+
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>College Name</th>
+                        <th>Branch</th>
+                    </tr>
+                </thead>
+                <tbody id="prediction-table">
+                    <!-- Predicted college and branch information will be inserted here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        // Function to retrieve URL parameters
+        function getQueryParams() {
+            const params = new URLSearchParams(window.location.search);
+            return {
+                name: params.get("name"),
+                dob: params.get("dob"),
+                cutoff: params.get("cutoff"),
+                category: params.get("category"),
+                rank: params.get("rank")
+            };
+        }
+
+        // Populate the output page with data from URL parameters
+        const userData = getQueryParams();
+        document.getElementById("user-name").textContent = userData.name || "N/A";
+        
+        // Placeholder for dynamically inserting predictions
+        const predictions = [
+            { college: "Sample College A", branch: "Computer Science" },
+            { college: "Sample College B", branch: "Electrical Engineering" }
+        ];
+
+        const predictionTable = document.getElementById("prediction-table");
+        predictionTable.innerHTML = predictions.map(prediction => `
+            <tr>
+                <td>${prediction.college}</td>
+                <td>${prediction.branch}</td>
+            </tr>
+        `).join('');
+    </script>
+</body>
+</html>

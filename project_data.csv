@@ -1,0 +1,565 @@
+NIRF,COLLEGE,YEAR,BRANCH,CATEGORY,OPENING_RANK,CLOSING_RANK
+46,SSN College of Engineering ,2023,Computer science,GENERAL,8,913
+46,SSN College of Engineering ,2023,Computer science,OBC,424,778
+46,SSN College of Engineering ,2023,Computer science,SC,3521,11570
+46,SSN College of Engineering ,2023,Computer science,ST,56297,56297
+46,SSN College of Engineering ,2023,Information technology,GENERAL,86,1275
+46,SSN College of Engineering ,2023,Information technology,OBC,1059,1519
+46,SSN College of Engineering ,2023,Information technology,SC,7641,16508
+46,SSN College of Engineering ,2023,Information technology,ST,45213,45213
+46,SSN College of Engineering ,2023,Electronics and Communication ,GENERAL,66,1221
+46,SSN College of Engineering ,2023,Electronics and Communication ,OBC,1262,1725
+46,SSN College of Engineering ,2023,Electronics and Communication ,SC,5586,16432
+46,SSN College of Engineering ,2023,Electronics and Communication ,ST,71088,71088
+46,SSN College of Engineering ,2023,Electrical and Electronics,GENERAL,1570,5858
+46,SSN College of Engineering ,2023,Electrical and Electronics,OBC,2199,2704
+46,SSN College of Engineering ,2023,Electrical and Electronics,SC,12339,21176
+46,SSN College of Engineering ,2023,Electrical and Electronics,ST,92922,92922
+46,SSN College of Engineering ,2023,Mechanical Engineering,GENERAL,3468,13023
+46,SSN College of Engineering ,2023,Mechanical Engineering,OBC,5213,7062
+46,SSN College of Engineering ,2023,Mechanical Engineering,SC,16377,33177
+46,SSN College of Engineering ,2023,Mechanical Engineering,ST,89211,89211
+46,SSN College of Engineering ,2023,Biomedical Engineering,GENERAL,3166,10361
+46,SSN College of Engineering ,2023,Biomedical Engineering,OBC,7080,8425
+46,SSN College of Engineering ,2023,Biomedical Engineering,SC,19555,37388
+46,SSN College of Engineering ,2023,Biomedical Engineering,ST,,
+46,SSN College of Engineering ,2023,Chemical Engineering,GENERAL,2066,10747
+46,SSN College of Engineering ,2023,Chemical Engineering,OBC,8664,12153
+46,SSN College of Engineering ,2023,Chemical Engineering,SC,29293,33969
+46,SSN College of Engineering ,2023,Chemical Engineering,ST,,
+46,SSN College of Engineering ,2023,Civil Engineering,GENERAL,2751,10747
+46,SSN College of Engineering ,2023,Civil Engineering,OBC,9934,13599
+46,SSN College of Engineering ,2023,Civil Engineering,SC,27781,33852
+46,SSN College of Engineering ,2023,Civil Engineering,ST,,
+20,"College of Engineering,Gunidy",2023,Computer science ,GENERAL,7,44
+20,"College of Engineering,Gunidy",2023,Computer science ,OBC,46,83
+20,"College of Engineering,Gunidy",2023,Computer science ,SC,57,1018
+20,"College of Engineering,Gunidy",2023,Computer science ,ST,5995,5995
+20,"College of Engineering,Gunidy",2023,Information technology,GENERAL,24,525
+20,"College of Engineering,Gunidy",2023,Information technology,OBC,537,859
+20,"College of Engineering,Gunidy",2023,Information technology,SC,1827,3833
+20,"College of Engineering,Gunidy",2023,Information technology,ST,4254,4254
+20,"College of Engineering,Gunidy",2023,Electronics and Communication ,GENERAL,1,107
+20,"College of Engineering,Gunidy",2023,Electronics and Communication ,OBC,114,319
+20,"College of Engineering,Gunidy",2023,Electronics and Communication ,SC,500,1266
+20,"College of Engineering,Gunidy",2023,Electronics and Communication ,ST,23107,23107
+20,"College of Engineering,Gunidy",2023,Electrical and Electronics,GENERAL,32,1071
+20,"College of Engineering,Gunidy",2023,Electrical and Electronics,OBC,1081,1616
+20,"College of Engineering,Gunidy",2023,Electrical and Electronics,SC,1304,5223
+20,"College of Engineering,Gunidy",2023,Electrical and Electronics,ST,8249,8249
+20,"College of Engineering,Gunidy",2023,Mechanical Engineering,GENERAL,1071,2993
+20,"College of Engineering,Gunidy",2023,Mechanical Engineering,OBC,3077,4962
+20,"College of Engineering,Gunidy",2023,Mechanical Engineering,SC,3872,12487
+20,"College of Engineering,Gunidy",2023,Mechanical Engineering,ST,16460,16460
+20,"College of Engineering,Gunidy",2023,Biomedical Engineering,GENERAL,494,2729
+20,"College of Engineering,Gunidy",2023,Biomedical Engineering,OBC,2986,5854
+20,"College of Engineering,Gunidy",2023,Biomedical Engineering,SC,7499,19808
+20,"College of Engineering,Gunidy",2023,Biomedical Engineering,ST,,
+20,"College of Engineering,Gunidy",2023,Civil Engineering,GENERAL,986,2715
+20,"College of Engineering,Gunidy",2023,Civil Engineering,OBC,2899,5419
+20,"College of Engineering,Gunidy",2023,Civil Engineering,SC,5387,14532
+20,"College of Engineering,Gunidy",2023,Civil Engineering,ST,,
+20,"College of Engineering,Gunidy",2023,Industrial Engineering,GENERAL,1033,7668
+20,"College of Engineering,Gunidy",2023,Industrial Engineering,OBC,7816,14193
+20,"College of Engineering,Gunidy",2023,Industrial Engineering,SC,10244,21747
+20,"College of Engineering,Gunidy",2023,Industrial Engineering,ST,,
+20,"College of Engineering,Gunidy",2023,Geoinformatics,GENERAL,339,6789
+20,"College of Engineering,Gunidy",2023,Geoinformatics,OBC,6905,11621
+20,"College of Engineering,Gunidy",2023,Geoinformatics,SC,12893,26353
+20,"College of Engineering,Gunidy",2023,Geoinformatics,ST,,
+20,"College of Engineering,Gunidy",2023,Mining Engineering,GENERAL,1618,6088
+20,"College of Engineering,Gunidy",2023,Mining Engineering,OBC,7055,13457
+20,"College of Engineering,Gunidy",2023,Mining Engineering,SC,15228,22211
+20,"College of Engineering,Gunidy",2023,Mining Engineering,ST,,
+20,"College of Engineering,Gunidy",2023,Manufacturing Engineering,GENERAL,1699,10259
+20,"College of Engineering,Gunidy",2023,Manufacturing Engineering,OBC,10788,17813
+20,"College of Engineering,Gunidy",2023,Manufacturing Engineering,SC,23405,24755
+20,"College of Engineering,Gunidy",2023,Manufacturing Engineering,ST,,
+20,"College of Engineering,Gunidy",2023,Material Science and Engineering,GENERAL,6027,9017
+20,"College of Engineering,Gunidy",2023,Material Science and Engineering,OBC,11373,14510
+20,"College of Engineering,Gunidy",2023,Material Science and Engineering,SC,21291,24105
+20,"College of Engineering,Gunidy",2023,Material Science and Engineering,ST,,
+20,"College of Engineering,Gunidy",2023,Printing Technology,GENERAL,3735,16859
+20,"College of Engineering,Gunidy",2023,Printing Technology,OBC,17303,26067
+20,"College of Engineering,Gunidy",2023,Printing Technology,SC,,
+20,"College of Engineering,Gunidy",2023,Printing Technology,ST,,
+151,Sri Venkateshwara College Of Engineering,2023,Computer science,GENERAL,1329,3866
+151,Sri Venkateshwara College Of Engineering,2023,Computer science,OBC,3933,6838
+151,Sri Venkateshwara College Of Engineering,2023,Computer science,SC,24689,31848
+151,Sri Venkateshwara College Of Engineering,2023,Computer science,ST,84963,84963
+151,Sri Venkateshwara College Of Engineering,2023,Information technology,GENERAL,3230,6872
+151,Sri Venkateshwara College Of Engineering,2023,Information technology,OBC,7122,9149
+151,Sri Venkateshwara College Of Engineering,2023,Information technology,SC,32174,56885
+151,Sri Venkateshwara College Of Engineering,2023,Information technology,ST,,
+151,Sri Venkateshwara College Of Engineering,2023,Electronics and Communication,GENERAL,2619,8658
+151,Sri Venkateshwara College Of Engineering,2023,Electronics and Communication,OBC,8786,12916
+151,Sri Venkateshwara College Of Engineering,2023,Electronics and Communication,SC,32915,51611
+151,Sri Venkateshwara College Of Engineering,2023,Electronics and Communication,ST,,
+151,Sri Venkateshwara College Of Engineering,2023,Electrical and Electronics,GENERAL,8733,17315
+151,Sri Venkateshwara College Of Engineering,2023,Electrical and Electronics,OBC,17700,21961
+151,Sri Venkateshwara College Of Engineering,2023,Electrical and Electronics,SC,59350,81447
+151,Sri Venkateshwara College Of Engineering,2023,Electrical and Electronics,ST,,
+151,Sri Venkateshwara College Of Engineering,2023,Mechanical Engineering,GENERAL,21898,22126
+151,Sri Venkateshwara College Of Engineering,2023,Mechanical Engineering,OBC,,
+151,Sri Venkateshwara College Of Engineering,2023,Mechanical Engineering,SC,60720,79087
+151,Sri Venkateshwara College Of Engineering,2023,Mechanical Engineering,ST,,
+151,Sri Venkateshwara College Of Engineering,2023,Biomedical Engineering,GENERAL,7773,19576
+151,Sri Venkateshwara College Of Engineering,2023,Biomedical Engineering,OBC,28151,41034
+151,Sri Venkateshwara College Of Engineering,2023,Biomedical Engineering,SC,55013,70283
+151,Sri Venkateshwara College Of Engineering,2023,Biomedical Engineering,ST,28830,45496
+151,Sri Venkateshwara College Of Engineering,2023,Chemical Engineering,GENERAL,15434,18492
+151,Sri Venkateshwara College Of Engineering,2023,Chemical Engineering,OBC,39776,56477
+151,Sri Venkateshwara College Of Engineering,2023,Chemical Engineering,SC,63687,77279
+151,Sri Venkateshwara College Of Engineering,2023,Chemical Engineering,ST,77582,77582
+151,Sri Venkateshwara College Of Engineering,2023,Civil Engineering,GENERAL,33835,36373
+151,Sri Venkateshwara College Of Engineering,2023,Civil Engineering,OBC,38602,56375
+151,Sri Venkateshwara College Of Engineering,2023,Civil Engineering,SC,81759,81759
+151,Sri Venkateshwara College Of Engineering,2023,Civil Engineering,ST,85549,85549
+86,Rajalakshmi Engineering College,2023,Computer science,GENERAL,853,6193
+86,Rajalakshmi Engineering College,2023,Computer science,OBC,6220,11273
+86,Rajalakshmi Engineering College,2023,Computer science,SC,6383,26016
+86,Rajalakshmi Engineering College,2023,Computer science,ST,45270,65815
+86,Rajalakshmi Engineering College,2023,Information technology,GENERAL,2092,10842
+86,Rajalakshmi Engineering College,2023,Information technology,OBC,11473,14541
+86,Rajalakshmi Engineering College,2023,Information technology,SC,14507,14507
+86,Rajalakshmi Engineering College,2023,Information technology,ST,62030,62030
+86,Rajalakshmi Engineering College,2023,"Electronics and Communication ",GENERAL,1786,10768
+86,Rajalakshmi Engineering College,2023,"Electronics and Communication ",OBC,10801,14067
+86,Rajalakshmi Engineering College,2023,"Electronics and Communication ",SC,11674,17105
+86,Rajalakshmi Engineering College,2023,"Electronics and Communication ",ST,96726,96726
+86,Rajalakshmi Engineering College,2023,Electrical and Electronics,GENERAL,12860,19738
+86,Rajalakshmi Engineering College,2023,Electrical and Electronics,OBC,19840,22778
+86,Rajalakshmi Engineering College,2023,Electrical and Electronics,SC,27039,30587
+86,Rajalakshmi Engineering College,2023,Electrical and Electronics,ST,125141,125141
+86,Rajalakshmi Engineering College,2023,Mechanical Engineering,GENERAL,11618,26087
+86,Rajalakshmi Engineering College,2023,Mechanical Engineering,OBC,33224,43946
+86,Rajalakshmi Engineering College,2023,Mechanical Engineering,SC,61511,97906
+86,Rajalakshmi Engineering College,2023,Mechanical Engineering,ST,167641,167641
+86,Rajalakshmi Engineering College,2023,Biomedical Engineering,GENERAL,7197,25514
+86,Rajalakshmi Engineering College,2023,Biomedical Engineering,OBC,28830,45496
+86,Rajalakshmi Engineering College,2023,Biomedical Engineering,SC,35647,97649
+86,Rajalakshmi Engineering College,2023,Biomedical Engineering,ST,42723,61278
+86,Rajalakshmi Engineering College,2023,Chemical Engineering,GENERAL,15801,20796
+86,Rajalakshmi Engineering College,2023,Chemical Engineering,OBC,37453,63049
+86,Rajalakshmi Engineering College,2023,Chemical Engineering,SC,42602,80734
+86,Rajalakshmi Engineering College,2023,Chemical Engineering,ST,45935,84236
+86,Rajalakshmi Engineering College,2023,Civil Engineering,GENERAL,25958,25958
+86,Rajalakshmi Engineering College,2023,Civil Engineering,OBC,46055,57932
+86,Rajalakshmi Engineering College,2023,Civil Engineering,SC,55921,94291
+86,Rajalakshmi Engineering College,2023,Civil Engineering,ST,59842,82493
+86,Rajalakshmi Engineering College,2023,Artificial Intelligence and Data Science,GENERAL,1582,11528
+86,Rajalakshmi Engineering College,2023,Artificial Intelligence and Data Science,OBC,11702,15850
+86,Rajalakshmi Engineering College,2023,Artificial Intelligence and Data Science,SC,31169,46918
+86,Rajalakshmi Engineering College,2023,Artificial Intelligence and Data Science,ST,71866,71866
+86,Rajalakshmi Engineering College,2023,Aeronautical Engineering,GENERAL,11223,23334
+86,Rajalakshmi Engineering College,2023,Aeronautical Engineering,OBC,24947,24947
+86,Rajalakshmi Engineering College,2023,Aeronautical Engineering,SC,30290,57277
+86,Rajalakshmi Engineering College,2023,Aeronautical Engineering,ST,35412,61427
+86,Rajalakshmi Engineering College,2023,Automobile Engineering,GENERAL,24983,2983
+86,Rajalakshmi Engineering College,2023,Automobile Engineering,OBC,49073,54913
+86,Rajalakshmi Engineering College,2023,Automobile Engineering,SC,54118,97748
+86,Rajalakshmi Engineering College,2023,Automobile Engineering,ST,71704,71704
+86,Rajalakshmi Engineering College,2023,Artificial Intelligence and Machine Learning,GENERAL,5450,15113
+86,Rajalakshmi Engineering College,2023,Artificial Intelligence and Machine Learning,OBC,15373,8431
+86,Rajalakshmi Engineering College,2023,Artificial Intelligence and Machine Learning,SC,28872,61065
+86,Rajalakshmi Engineering College,2023,Artificial Intelligence and Machine Learning,ST,41289,41289
+86,Rajalakshmi Engineering College,2023,"Mechatronics",GENERAL,15413,25477
+86,Rajalakshmi Engineering College,2023,"Mechatronics",OBC,26134,26134
+86,Rajalakshmi Engineering College,2023,"Mechatronics",SC,54018,72738
+86,Rajalakshmi Engineering College,2023,"Mechatronics",ST,68018,68018
+86,Rajalakshmi Engineering College,2023,Robotics and Automation,GENERAL,4025,25358
+86,Rajalakshmi Engineering College,2023,Robotics and Automation,OBC,25535,26377
+86,Rajalakshmi Engineering College,2023,Robotics and Automation,SC,58541,100957
+86,Rajalakshmi Engineering College,2023,Robotics and Automation,ST,65741,65741
+151,Chennai Institute Of Technology,2023,Computer science,GENERAL,105,3537
+151,Chennai Institute Of Technology,2023,Computer science,OBC,3556,7150
+151,Chennai Institute Of Technology,2023,Computer science,SC,,
+151,Chennai Institute Of Technology,2023,Computer science,ST,76115,108876
+151,Chennai Institute Of Technology,2023,Information technology,GENERAL,1238,6622
+151,Chennai Institute Of Technology,2023,Information technology,OBC,7156,8339
+151,Chennai Institute Of Technology,2023,Information technology,SC,,
+151,Chennai Institute Of Technology,2023,Information technology,ST,135208,135208
+151,Chennai Institute Of Technology,2023,Electronics and Communication,GENERAL,333,4588
+151,Chennai Institute Of Technology,2023,Electronics and Communication,OBC,4694,7805
+151,Chennai Institute Of Technology,2023,Electronics and Communication,SC,13000,26247
+151,Chennai Institute Of Technology,2023,Electronics and Communication,ST,,
+151,Chennai Institute Of Technology,2023,Electrical and Electronics,GENERAL,5383,9817
+151,Chennai Institute Of Technology,2023,Electrical and Electronics,OBC,9977,11859
+151,Chennai Institute Of Technology,2023,Electrical and Electronics,SC,,
+151,Chennai Institute Of Technology,2023,Electrical and Electronics,ST,143355,143355
+151,Chennai Institute Of Technology,2023,Mechanical Engineering,GENERAL,6110,17292
+151,Chennai Institute Of Technology,2023,Mechanical Engineering,OBC,17615,21355
+151,Chennai Institute Of Technology,2023,Mechanical Engineering,SC,,
+151,Chennai Institute Of Technology,2023,Mechanical Engineering,ST,144478,144478
+151,Chennai Institute Of Technology,2023,Civil Engineering,GENERAL,10070,18646
+151,Chennai Institute Of Technology,2023,Civil Engineering,OBC,21774,23053
+151,Chennai Institute Of Technology,2023,Civil Engineering,SC,,
+151,Chennai Institute Of Technology,2023,Civil Engineering,ST,,
+151,Chennai Institute Of Technology,2023,Biomedical Engineering,GENERAL,8321,11570
+151,Chennai Institute Of Technology,2023,Biomedical Engineering,OBC,14325,16902
+151,Chennai Institute Of Technology,2023,Biomedical Engineering,SC,12312,23863
+151,Chennai Institute Of Technology,2023,Biomedical Engineering,ST,,
+151,Chennai Institute Of Technology,2023,"Mechatronics",GENERAL,6049,12042
+151,Chennai Institute Of Technology,2023,"Mechatronics",OBC,12221,14269
+151,Chennai Institute Of Technology,2023,Mechatronics,SC,14135,14139
+151,Chennai Institute Of Technology,2023,"Mechatronics",ST,,
+63,P.S.G. College of Technology in Coimbatore ,2023,Civil Engineering,General,3577,6229
+63,P.S.G. College of Technology in Coimbatore ,2023,Electrical and Electronics,General,71,1793
+63,P.S.G. College of Technology in Coimbatore ,2023,Electronics and Communication,General,21,480
+63,P.S.G. College of Technology in Coimbatore ,2023,Mechanical Engineering,General,1596,4914
+63,P.S.G. College of Technology in Coimbatore ,2023,Metallurgical Engineering,General,5996,13819
+63,P.S.G. College of Technology in Coimbatore ,2023,Production Engineering,General,6456,11403
+63,P.S.G. College of Technology in Coimbatore ,2023,Textile Technology,General,5221,16807
+63,P.S.G. College of Technology in Coimbatore ,2023,Artificial Intelligence and Machine Learning,General,355,850
+63,P.S.G. College of Technology in Coimbatore ,2023,Information Technology,General,612,1109
+63,P.S.G. College of Technology in Coimbatore ,2023,Robotics and Automation,General,128,3418
+63,P.S.G. College of Technology in Coimbatore ,2023,Civil Engineering,BC,6842,11312
+63,P.S.G. College of Technology in Coimbatore ,2023,Electrical and Electronics,BC,1809,2160
+63,P.S.G. College of Technology in Coimbatore ,2023,Electronics and Communication,BC,497,903
+63,P.S.G. College of Technology in Coimbatore ,2023,Mechanical Engineering,BC,4957,7124
+63,P.S.G. College of Technology in Coimbatore ,2023,Metallurgical Engineering,BC,14712,22295
+63,P.S.G. College of Technology in Coimbatore ,2023,Production Engineering,BC,11565,18559
+63,P.S.G. College of Technology in Coimbatore ,2023,Textile Technology,BC,20433,21396
+63,P.S.G. College of Technology in Coimbatore ,2023,Robotics and Automation,BC,3449,6176
+63,P.S.G. College of Technology in Coimbatore ,2023,Information Technology,BC,1126,1527
+63,P.S.G. College of Technology in Coimbatore ,2023,Artificial Intelligence and Machine Learning,BC,859,1387
+63,P.S.G. College of Technology in Coimbatore ,2023,Computer science,General,12,383
+63,P.S.G. College of Technology in Coimbatore ,2023,Computer science,BC,391,768
+63,P.S.G. College of Technology in Coimbatore ,2023,Civil Engineering,SC,16158,21777
+63,P.S.G. College of Technology in Coimbatore ,2023,Electrical and Electronics,SC,7840,19285
+63,P.S.G. College of Technology in Coimbatore ,2023,Electronics and Communication,SC,564,7644
+63,P.S.G. College of Technology in Coimbatore ,2023,Mechanical Engineering,SC,9760,21635
+63,P.S.G. College of Technology in Coimbatore ,2023,Metallurgical Engineering,SC,65520,79496
+63,P.S.G. College of Technology in Coimbatore ,2023,Production Engineering,SC,24416,48601
+63,P.S.G. College of Technology in Coimbatore ,2023,Textile Technology,SC,35738,75155
+63,P.S.G. College of Technology in Coimbatore ,2023,Artificial Intelligence and Machine Learning,SC,9924,15088
+63,P.S.G. College of Technology in Coimbatore ,2023,Information Technology,SC,8992,17712
+63,P.S.G. College of Technology in Coimbatore ,2023,Robotics and Automation,SC,26171,35487
+63,P.S.G. College of Technology in Coimbatore ,2023,Computer science,SC,2494,9832
+63,P.S.G. College of Technology in Coimbatore ,2023,Civil Engineering,ST,29661,29661
+63,P.S.G. College of Technology in Coimbatore ,2023,Electrical and Electronics,ST,,
+63,P.S.G. College of Technology in Coimbatore ,2023,Electronics and Communication,ST,,
+63,P.S.G. College of Technology in Coimbatore ,2023,Mechanical Engineering,ST,,
+63,P.S.G. College of Technology in Coimbatore ,2023,Metallurgical Engineering,ST,132442,132442
+63,P.S.G. College of Technology in Coimbatore ,2023,Production Engineering,ST,153835,153835
+63,P.S.G. College of Technology in Coimbatore ,2023,Textile Technology,ST,,
+63,P.S.G. College of Technology in Coimbatore ,2023,Artificial Intelligence and Machine Learning,ST,,
+63,P.S.G. College of Technology in Coimbatore ,2023,Information Technology,ST,,
+63,P.S.G. College of Technology in Coimbatore ,2023,Robotics and Automation,ST,41512,41512
+63,P.S.G. College of Technology in Coimbatore ,2023,Computer science,ST,23337,23337
+63,P.S.G. College of Technology in Coimbatore ,2023,Bio Technology,General,2412,6839
+63,P.S.G. College of Technology in Coimbatore ,2023,Bio Technology,BC,7452,12069
+63,P.S.G. College of Technology in Coimbatore ,2023,Bio Technology,SC,26394,30967
+63,P.S.G. College of Technology in Coimbatore ,2023,Bio Technology,ST,94261,94261
+63,P.S.G. College of Technology in Coimbatore ,2023,Biomedical Engineering,General,4170,9758
+63,P.S.G. College of Technology in Coimbatore ,2023,Biomedical Engineering,BC,9979,12494
+63,P.S.G. College of Technology in Coimbatore ,2023,Biomedical Engineering,SC,33515,59327
+63,P.S.G. College of Technology in Coimbatore ,2023,Biomedical Engineering,ST,88856,88856
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Chemical Engineering,General,8575,12588
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Civil Engineering,General,7739,17649
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Computer science,General,830,1343
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Electronics and Communication,General,323,1933
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Electrical and Electronics,General,1984,3801
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Chemical Engineering,OBC,13238,18085
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Civil Engineering,OBC,19013,22689
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Computer science,OBC,1388,1764
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Electrical and Electronics,OBC,3946,5713
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Electronics and Communication,OBC,2000,2575
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Mechanical Engineering,OBC,12165,18116
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Artificial Intelligence and Data Science,SC,5967,20436
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Computer science,SC,9528,15344
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Electrical and Electronics,SC,18075,20886
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Electronics and Communication,SC,11120,20260
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Chemical Engineering,SC,27312,59903
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Civil Engineering,SC,32181,55264
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Electrical and Electronics,SC,13701,24807
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Mechanical Engineering,SC,40625,56645
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Electronics and Communication,ST,68809,68809
+102,"Coimbatore Institute of Technology, Coimbatore",2023,Chemical Engineering,OBC,24204,28758
+77,Sri Krishna College of Engineering and Technology,2023,Computer science,General,1917,4705
+77,Sri Krishna College of Engineering and Technology,2023,Computer science,OBC,4762,7448
+77,Sri Krishna College of Engineering and Technology,2023,Computer science,SC,17831,20871
+77,Sri Krishna College of Engineering and Technology,2023,Information Technology,General,4255,8563
+77,Sri Krishna College of Engineering and Technology,2023,Information Technology,OBC,8688,10459
+77,Sri Krishna College of Engineering and Technology,2023,Electronics and Communication,GENERAL,1911,8227
+77,Sri Krishna College of Engineering and Technology,2023,Electronics and Communication,OBC,8253,10529
+77,Sri Krishna College of Engineering and Technology,2023,Electronics and Communication,SC,24231,24231
+77,Sri Krishna College of Engineering and Technology,2023,Electronics and Communication,ST,88304,88304
+77,Sri Krishna College of Engineering and Technology,2023,Electrical and Electronics,GENERAL,7374,12980
+77,Sri Krishna College of Engineering and Technology,2023,Electrical and Electronics,OBC,13048,16763
+77,Sri Krishna College of Engineering and Technology,2023,Electrical and Electronics,SC,53634,94065
+77,Sri Krishna College of Engineering and Technology,2023,Electrical and Electronics,ST,,
+77,Sri Krishna College of Engineering and Technology,2023,Civil Engineering,GENERAL,29149,39253
+77,Sri Krishna College of Engineering and Technology,2023,Civil Engineering,OBC,39407,46122
+77,Sri Krishna College of Engineering and Technology,2023,Civil Engineering,SC,74818,87986
+77,Sri Krishna College of Engineering and Technology,2023,Civil Engineering,ST,,
+77,Sri Krishna College of Engineering and Technology,2023,Mechanical Engineering,GENERAL,18847,26167
+77,Sri Krishna College of Engineering and Technology,2023,Mechanical Engineering,OBC,30698,38074
+77,Sri Krishna College of Engineering and Technology,2023,Mechanical Engineering,SC,76945,92063
+77,Sri Krishna College of Engineering and Technology,2023,Mechanical Engineering,ST,117315,117315
+77,Sri Krishna College of Engineering and Technology,2023,Artificial Intelligence and Data Science,GENERAL,2842,7942
+77,Sri Krishna College of Engineering and Technology,2023,Artificial Intelligence and Data Science,OBC,7955,10558
+77,Sri Krishna College of Engineering and Technology,2023,Artificial Intelligence and Data Science,SC,24307,29340
+77,Sri Krishna College of Engineering and Technology,2023,Artificial Intelligence and Data Science,ST,87677,87677
+77,Sri Krishna College of Engineering and Technology,2023,Mechatronics,GENERAL,13999,26532
+77,Sri Krishna College of Engineering and Technology,2023,Mechatronics,OBC,28899,35167
+77,Sri Krishna College of Engineering and Technology,2023,Mechatronics,SC,30904,99115
+77,Sri Krishna College of Engineering and Technology,2023,Mechatronics,ST,153788,153788
+13,Madras Institute of Technology (MIT Chrompet),2023,Aeronautical Engineering,GENERAL,410,2761
+13,Madras Institute of Technology (MIT Chrompet),2023,Artificial Intelligence and Data Science,GENERAL,116,856
+13,Madras Institute of Technology (MIT Chrompet),2023,Computer science,GENERAL,164,445
+13,Madras Institute of Technology (MIT Chrompet),2023,Electrical and Instrumentation,GENERAL,465,2420
+13,Madras Institute of Technology (MIT Chrompet),2023,Electronics and Communication,GENERAL,433,787
+13,Madras Institute of Technology (MIT Chrompet),2023,Information Technology,GENERAL,314,1114
+13,Madras Institute of Technology (MIT Chrompet),2023,Robotics and Automation,GENERAL,1443,2288
+13,Madras Institute of Technology (MIT Chrompet),2023,Aeronautical Engineering,OBC,2675,4543
+13,Madras Institute of Technology (MIT Chrompet),2023,Artificial Intelligence and Data Science,OBC,875,1349
+13,Madras Institute of Technology (MIT Chrompet),2023,Computer science,OBC,450,642
+13,Madras Institute of Technology (MIT Chrompet),2023,Electrical and Instrumentation,OBC,2443,3667
+13,Madras Institute of Technology (MIT Chrompet),2023,Electronics and Communication,OBC,806,1140
+13,Madras Institute of Technology (MIT Chrompet),2023,Information Technology,OBC,1131,1452
+13,Madras Institute of Technology (MIT Chrompet),2023,Robotics and Automation,OBC,2620,3664
+13,Madras Institute of Technology (MIT Chrompet),2023,Aeronautical Engineering,SC,3649,12992
+13,Madras Institute of Technology (MIT Chrompet),2023,Artificial Intelligence and Data Science,SC,1173,8991
+13,Madras Institute of Technology (MIT Chrompet),2023,Computer science,SC,528,3940
+13,Madras Institute of Technology (MIT Chrompet),2023,Electrical and Instrumentation,SC,11159,17836
+13,Madras Institute of Technology (MIT Chrompet),2023,Electronics and Communication,SC,1889,6713
+13,Madras Institute of Technology (MIT Chrompet),2023,Information Technology,SC,4425,8545
+13,Madras Institute of Technology (MIT Chrompet),2023,Robotics and Automation,SC,6759,11036
+13,Madras Institute of Technology (MIT Chrompet),2023,Computer science,ST,19404,19404
+82, Kumaraguru College Of Technology,2023,Computer science,GENERAL,481,2789
+82, Kumaraguru College Of Technology,2023,Computer science,OBC,2797,4581
+82, Kumaraguru College Of Technology,2023,Computer science,SC,24209,27139
+82, Kumaraguru College Of Technology,2023,Computer science,ST,36185,36185
+82, Kumaraguru College Of Technology,2023,Information technology,GENERAL,2077,3767
+82, Kumaraguru College Of Technology,2023,Information technology,OBC,3783,5507
+82, Kumaraguru College Of Technology,2023,Information technology,SC,11897,38568
+82, Kumaraguru College Of Technology,2023,Information technology,ST,40386,40386
+82, Kumaraguru College Of Technology,2023,Electronics and Communication,GENERAL,2048,4850
+82, Kumaraguru College Of Technology,2023,Electronics and Communication,OBC,4993,7190
+82, Kumaraguru College Of Technology,2023,Electronics and Communication,SC,23158,48064
+82, Kumaraguru College Of Technology,2023,Electronics and Communication,ST,32062,32062
+82, Kumaraguru College Of Technology,2023,Electrical and Electronics,GENERAL,2173,9170
+82, Kumaraguru College Of Technology,2023,Electrical and Electronics,OBC,9433,11834
+82, Kumaraguru College Of Technology,2023,Electrical and Electronics,SC,36799,51742
+82, Kumaraguru College Of Technology,2023,Electrical and Electronics,ST,116082,116082
+82, Kumaraguru College Of Technology,2023,Mechanical Engineering,GENERAL,11525,22414
+82, Kumaraguru College Of Technology,2023,Mechanical Engineering,OBC,,
+82, Kumaraguru College Of Technology,2023,Mechanical Engineering,SC,56678,83775
+82, Kumaraguru College Of Technology,2023,Mechanical Engineering,ST,127730,127730
+82, Kumaraguru College Of Technology,2023,Civil Engineering,GENERAL,9437,22632
+82, Kumaraguru College Of Technology,2023,Civil Engineering,OBC,,
+82, Kumaraguru College Of Technology,2023,Civil Engineering,SC,37704,86775
+82, Kumaraguru College Of Technology,2023,Civil Engineering,ST,143171,143171
+82, Kumaraguru College Of Technology,2023,Biomedical Engineering,GENERAL,7650,14916
+82, Kumaraguru College Of Technology,2023,Biomedical Engineering,OBC,16028,22671
+82, Kumaraguru College Of Technology,2023,Biomedical Engineering,SC,38834,65886
+82, Kumaraguru College Of Technology,2023,Biomedical Engineering,ST,,
+82, Kumaraguru College Of Technology,2023,Mechatronics,GENERAL,9954,17699
+82, Kumaraguru College Of Technology,2023,Mechatronics,OBC,17949,22042
+82, Kumaraguru College Of Technology,2023,Mechatronics,SC,59485,82856
+82, Kumaraguru College Of Technology,2023,Mechatronics,ST,,
+82,Thiagarajar College of Engineering,2023,Computer science,GENERAL,141,1561
+82,Thiagarajar College of Engineering,2023,Computer science,OBC,1574,2170
+82,Thiagarajar College of Engineering,2023,Computer science,SC,2904,11274
+82,Thiagarajar College of Engineering,2023,Computer science,ST,,
+82,Thiagarajar College of Engineering,2023,Information technology,GENERAL,2918,4190
+82,Thiagarajar College of Engineering,2023,Information technology,OBC,4199,6053
+82,Thiagarajar College of Engineering,2023,Information technology,SC,142323,25097
+82,Thiagarajar College of Engineering,2023,Information technology,ST,69637,69637
+82,Thiagarajar College of Engineering,2023,Electronics and Communication,GENERAL,849,2125
+82,Thiagarajar College of Engineering,2023,Electronics and Communication,OBC,2205,2822
+82,Thiagarajar College of Engineering,2023,Electronics and Communication,SC,4343,12039
+82,Thiagarajar College of Engineering,2023,Electronics and Communication,ST,32730,32730
+82,Thiagarajar College of Engineering,2023,Electrical and Electronics,GENERAL,2565,4902
+82,Thiagarajar College of Engineering,2023,Electrical and Electronics,OBC,4948,6646
+82,Thiagarajar College of Engineering,2023,Electrical and Electronics,SC,14955,25216
+82,Thiagarajar College of Engineering,2023,Electrical and Electronics,ST,,
+82,Thiagarajar College of Engineering,2023,Mechanical Engineering,GENERAL,4967,11045
+82,Thiagarajar College of Engineering,2023,Mechanical Engineering,OBC,11132,14220
+82,Thiagarajar College of Engineering,2023,Mechanical Engineering,SC,25929,25929
+82,Thiagarajar College of Engineering,2023,Mechanical Engineering,ST,,
+82,Thiagarajar College of Engineering,2023,Artificial Intelligence and Machine Learning,GENERAL,3022,4565
+82,Thiagarajar College of Engineering,2023,Artificial Intelligence and Machine Learning,OBC,4778,6289
+82,Thiagarajar College of Engineering,2023,Artificial Intelligence and Machine Learning,SC,13246,25431
+82,Thiagarajar College of Engineering,2023,Artificial Intelligence and Machine Learning,ST,51652,51652
+82,Thiagarajar College of Engineering,2023,Civil Engineering,GENERAL,6372,12483
+82,Thiagarajar College of Engineering,2023,Civil Engineering,OBC,12519,18898
+82,Thiagarajar College of Engineering,2023,Civil Engineering,SC,26585,26585
+82,Thiagarajar College of Engineering,2023,Civil Engineering,ST,83570,83570
+82,Thiagarajar College of Engineering,2023,Mechatronics,GENERAL,6794,11076
+82,Thiagarajar College of Engineering,2023,Mechatronics,OBC,11309,13670
+82,Thiagarajar College of Engineering,2023,Mechatronics,SC,32399,72237
+82,Thiagarajar College of Engineering,2023,Mechatronics,ST,,
+160,"Government College of Engineering,Coimbatore",2023,Computer science,GENERAL,844,1814
+160,"Government College of Engineering,Coimbatore",2023,Computer science,OBC,1833,3208
+160,"Government College of Engineering,Coimbatore",2023,Computer science,SC,2089,10260
+160,"Government College of Engineering,Coimbatore",2023,Computer science,ST,,
+160,"Government College of Engineering,Coimbatore",2023,Information technology,GENERAL,237,2818
+160,"Government College of Engineering,Coimbatore",2023,Information technology,OBC,2845,3786
+160,"Government College of Engineering,Coimbatore",2023,Information technology,SC,6078,13646
+160,"Government College of Engineering,Coimbatore",2023,Information technology,ST,,
+160,"Government College of Engineering,Coimbatore",2023,Electronics and Communication,GENERAL,466,2259
+160,"Government College of Engineering,Coimbatore",2023,Electronics and Communication,OBC,2300,3548
+160,"Government College of Engineering,Coimbatore",2023,Electronics and Communication,SC,7152,12457
+160,"Government College of Engineering,Coimbatore",2023,Electronics and Communication,ST,9076,9895
+160,"Government College of Engineering,Coimbatore",2023,Electrical and Electronics,GENERAL,2015,4975
+160,"Government College of Engineering,Coimbatore",2023,Electrical and Electronics,OBC,5128,7047
+160,"Government College of Engineering,Coimbatore",2023,Electrical and Electronics,SC,11822,23102
+160,"Government College of Engineering,Coimbatore",2023,Electrical and Electronics,ST,,
+160,"Government College of Engineering,Coimbatore",2023,Mechanical Engineering,GENERAL,6135,14082
+160,"Government College of Engineering,Coimbatore",2023,Mechanical Engineering,OBC,14118,20997
+160,"Government College of Engineering,Coimbatore",2023,Mechanical Engineering,SC,23363,29261
+160,"Government College of Engineering,Coimbatore",2023,Mechanical Engineering,ST,70419,70419
+160,"Government College of Engineering,Coimbatore",2023,Civil Engineering,GENERAL,6257,19901
+160,"Government College of Engineering,Coimbatore",2023,Civil Engineering,OBC,19995,26159
+160,"Government College of Engineering,Coimbatore",2023,Civil Engineering,SC,20974,26443
+160,"Government College of Engineering,Coimbatore",2023,Civil Engineering,ST,70456,70456
+160,"Government College of Engineering,Coimbatore",2023,Industrial Bio-Technology,GENERAL,9173,24929
+160,"Government College of Engineering,Coimbatore",2023,Industrial Bio-Technology,OBC,2845,9786
+160,"Government College of Engineering,Coimbatore",2023,Industrial Bio-Technology,SC,27996,71041
+160,"Government College of Engineering,Coimbatore",2023,Industrial Bio-Technology,ST,32638,32638
+160,"Government College of Engineering,Coimbatore",2023,Production Engineering,GENERAL,13891,24962
+160,"Government College of Engineering,Coimbatore",2023,Production Engineering,OBC,27232,39641
+160,"Government College of Engineering,Coimbatore",2023,Production Engineering,SC,43720,69674
+160,"Government College of Engineering,Coimbatore",2023,Production Engineering,ST,31364,31364
+160,"Government College of Engineering,Coimbatore",2023,Electrical and Instrumentation,GENERAL,4428,7433
+160,"Government College of Engineering,Coimbatore",2023,Electrical and Instrumentation,OBC,7640,10695
+160,"Government College of Engineering,Coimbatore",2023,Electrical and Instrumentation,SC,22521,24261
+160,"Government College of Engineering,Coimbatore",2023,Electrical and Instrumentation,ST,63982,63982
+124,PSG Institute of Technology and Applied Research,2023,Computer science,GENERAL,406,1956
+124,PSG Institute of Technology and Applied Research,2023,Computer science,OBC,1986,2940
+124,PSG Institute of Technology and Applied Research,2023,Computer science,SC,6450,21427
+124,PSG Institute of Technology and Applied Research,2023,Computer science,ST,33532,41199
+124,PSG Institute of Technology and Applied Research,2023,Electronics and Communication,GENERAL,1714,2632
+124,PSG Institute of Technology and Applied Research,2023,Electronics and Communication,OBC,2655,3618
+124,PSG Institute of Technology and Applied Research,2023,Electronics and Communication,SC,10974,22034
+124,PSG Institute of Technology and Applied Research,2023,Electronics and Communication,ST,58272,58272
+124,PSG Institute of Technology and Applied Research,2023,Electrical and Electronics,GENERAL,2970,4591
+124,PSG Institute of Technology and Applied Research,2023,Electrical and Electronics,OBC,4646,6816
+124,PSG Institute of Technology and Applied Research,2023,Electrical and Electronics,SC,16985,25739
+124,PSG Institute of Technology and Applied Research,2023,Electrical and Electronics,ST,,
+124,PSG Institute of Technology and Applied Research,2023,Civil Engineering,GENERAL,13769,22425
+124,PSG Institute of Technology and Applied Research,2023,Civil Engineering,OBC,24975,31345
+124,PSG Institute of Technology and Applied Research,2023,Civil Engineering,SC,33235,74438
+124,PSG Institute of Technology and Applied Research,2023,Civil Engineering,ST,,
+124,PSG Institute of Technology and Applied Research,2023,Artificial Intelligence and Data Science,GENERAL,1162,2614
+124,PSG Institute of Technology and Applied Research,2023,Artificial Intelligence and Data Science,OBC,2615,3838
+124,PSG Institute of Technology and Applied Research,2023,Artificial Intelligence and Data Science,SC,6335,16559
+124,PSG Institute of Technology and Applied Research,2023,Artificial Intelligence and Data Science,ST,48074,48074
+124,PSG Institute of Technology and Applied Research,2023,Mechanical Engineering,GENERAL,7717,11028
+124,PSG Institute of Technology and Applied Research,2023,Mechanical Engineering,OBC,11284,15194
+124,PSG Institute of Technology and Applied Research,2023,Mechanical Engineering,SC,17389,43279
+124,PSG Institute of Technology and Applied Research,2023,Mechanical Engineering,ST,,
+124,PSG Institute of Technology and Applied Research,2023,Instrumentation and Control Engineering,GENERAL,8913,11663
+124,PSG Institute of Technology and Applied Research,2023,Instrumentation and Control Engineering,OBC,11733,16002
+124,PSG Institute of Technology and Applied Research,2023,Instrumentation and Control Engineering,SC,37304,66740
+124,PSG Institute of Technology and Applied Research,2023,Instrumentation and Control Engineering,ST,,
+22,Alagappa College Of Technology,2023,Apparel Technology,GENERAL,16566,16566
+22,Alagappa College Of Technology,2023,Apparel Technology,OBC,,
+22,Alagappa College Of Technology,2023,Apparel Technology,SC,47696,70511
+22,Alagappa College Of Technology,2023,Apparel Technology,ST,116255,116255
+22,Alagappa College Of Technology,2023,Food Technology,GENERAL,2935,8559
+22,Alagappa College Of Technology,2023,Food Technology,OBC,10704,21464
+22,Alagappa College Of Technology,2023,Food Technology,SC,23577,36419
+22,Alagappa College Of Technology,2023,Food Technology,ST,,
+22,Alagappa College Of Technology,2023,Leather Technology,GENERAL,16794,18914
+22,Alagappa College Of Technology,2023,Leather Technology,OBC,,
+22,Alagappa College Of Technology,2023,Leather Technology,SC,45076,82996
+22,Alagappa College Of Technology,2023,Leather Technology,ST,,
+22,Alagappa College Of Technology,2023,Textile Technology,GENERAL,18111,21550
+22,Alagappa College Of Technology,2023,Textile Technology,OBC,,
+22,Alagappa College Of Technology,2023,Textile Technology,SC,38855,86917
+22,Alagappa College Of Technology,2023,Textile Technology,ST,,
+22,Alagappa College Of Technology,2023,Ceramic Technology,GENERAL,14351,22182
+22,Alagappa College Of Technology,2023,Ceramic Technology,OBC,,
+22,Alagappa College Of Technology,2023,Ceramic Technology,SC,49951,76665
+22,Alagappa College Of Technology,2023,Ceramic Technology,ST,,
+22,Alagappa College Of Technology,2023,Chemical Engineering,GENERAL,3901,8098
+22,Alagappa College Of Technology,2023,Chemical Engineering,OBC,8186,12175
+22,Alagappa College Of Technology,2023,Chemical Engineering,SC,14827,17780
+22,Alagappa College Of Technology,2023,Chemical Engineering,ST,89266,89266
+22,Alagappa College Of Technology,2023,Biomedical Engineering,GENERAL,,
+22,Alagappa College Of Technology,2023,Biomedical Engineering,OBC,,
+22,Alagappa College Of Technology,2023,Biomedical Engineering,SC,,
+22,Alagappa College Of Technology,2023,Biomedical Engineering,ST,,
+22,Alagappa College Of Technology,2023,Pharmaceutical Technology,GENERAL,4327,171421
+22,Alagappa College Of Technology,2023,Pharmaceutical Technology,OBC,,
+22,Alagappa College Of Technology,2023,Pharmaceutical Technology,SC,22420,37066
+22,Alagappa College Of Technology,2023,Pharmaceutical Technology,ST,,
+22,Alagappa College Of Technology,2023,Petroleum Engineering and Technology,GENERAL,4427,21704
+22,Alagappa College Of Technology,2023,Petroleum Engineering and Technology,OBC,,
+22,Alagappa College Of Technology,2023,Petroleum Engineering and Technology,SC,34904,68091
+22,Alagappa College Of Technology,2023,Petroleum Engineering and Technology,ST,,
+22,Alagappa College Of Technology,2023,Industrial Bio-Technology,GENERAL,1518,7130
+22,Alagappa College Of Technology,2023,Industrial Bio-Technology,OBC,7316,10427
+22,Alagappa College Of Technology,2023,Industrial Bio-Technology,SC,9631,12653
+22,Alagappa College Of Technology,2023,Industrial Bio-Technology,ST,,
+22,Alagappa College Of Technology,2023,Industrial Bio-Technology(SS),GENERAL,10581,11626
+22,Alagappa College Of Technology,2023,Industrial Bio-Technology(SS),OBC,11734,13127
+22,Alagappa College Of Technology,2023,Industrial Bio-Technology(SS),SC,,
+22,Alagappa College Of Technology,2023,Industrial Bio-Technology(SS),ST,81657,81657
+187,RVS College of Engineering and Technology,2023,Computer science,GENERAL,152,16872
+187,RVS College of Engineering and Technology,2023,Computer science,OBC,116449,116449
+187,RVS College of Engineering and Technology,2023,Computer science,SC,89315,143970
+187,RVS College of Engineering and Technology,2023,Computer science,ST,,
+187,RVS College of Engineering and Technology,2023,Information technology,GENERAL,14621,20480
+187,RVS College of Engineering and Technology,2023,Information technology,OBC,89165,98276
+187,RVS College of Engineering and Technology,2023,Information technology,SC,107165,121042
+187,RVS College of Engineering and Technology,2023,Information technology,ST,,
+187,RVS College of Engineering and Technology,2023,Electronics and Communication,GENERAL,9321,17673
+187,RVS College of Engineering and Technology,2023,Electronics and Communication,OBC,20404,121320
+187,RVS College of Engineering and Technology,2023,Electronics and Communication,SC,97922,152673
+187,RVS College of Engineering and Technology,2023,Electronics and Communication,ST,,
+187,RVS College of Engineering and Technology,2023,Electrical and Electronics,GENERAL,92329,117127
+187,RVS College of Engineering and Technology,2023,Electrical and Electronics,OBC,124001,166260
+187,RVS College of Engineering and Technology,2023,Electrical and Electronics,SC,136812,175842
+187,RVS College of Engineering and Technology,2023,Electrical and Electronics,ST,,
+187,RVS College of Engineering and Technology,2023,Artificial Intelligence and Data Science,GENERAL,4160,20135
+187,RVS College of Engineering and Technology,2023,Artificial Intelligence and Data Science,OBC,42763,98276
+187,RVS College of Engineering and Technology,2023,Artificial Intelligence and Data Science,SC,89315,143970
+187,RVS College of Engineering and Technology,2023,Artificial Intelligence and Data Science,ST,,
+187,RVS College of Engineering and Technology,2023,Mechanical Engineering,GENERAL,109547,132709
+187,RVS College of Engineering and Technology,2023,Mechanical Engineering,OBC,133490,173231
+187,RVS College of Engineering and Technology,2023,Mechanical Engineering,SC,144214,163375
+187,RVS College of Engineering and Technology,2023,Mechanical Engineering,ST,,
+187,RVS College of Engineering and Technology,2023,Petrochemical Engineering,GENERAL,113667,135622
+187,RVS College of Engineering and Technology,2023,Petrochemical Engineering,OBC,149662,158121
+187,RVS College of Engineering and Technology,2023,Petrochemical Engineering,SC,146948,167924
+187,RVS College of Engineering and Technology,2023,Petrochemical Engineering,ST,,
+155,"Easwari Engineering College, Chennai",2023,Computer science,GENERAL,2786,8991
+155,"Easwari Engineering College, Chennai",2023,Information technology,GENERAL,6132,16946
+155,"Easwari Engineering College, Chennai",2023,Electronics and Communication,GENERAL,3613,18020
+155,"Easwari Engineering College, Chennai",2023,Electrical and Electronics,GENERAL,10538,42514
+155,"Easwari Engineering College, Chennai",2023,Mechanical Engineering,GENERAL,12796,47097
+155,"Easwari Engineering College, Chennai",2023,Electrical and Instrumentation,GENERAL,17099,64062
+155,"Easwari Engineering College, Chennai",2023,Civil Engineering,GENERAL,17470,98673
+155,"Easwari Engineering College, Chennai",2023,Automobile Engineering,GENERAL,34315,69317
+243,"Panimalar Engineering College,Chennai",2023,Computer science,GENERAL,8437,98214
+243,"Panimalar Engineering College,Chennai",2023,Computer science,OBC,10721,81497
+243,"Panimalar Engineering College,Chennai",2023,Computer science,SC,106002,106002
+243,"Panimalar Engineering College,Chennai",2023,Computer science,ST,,
+243,"Panimalar Engineering College,Chennai",2023,Information technology,GENERAL,9582,47624
+243,"Panimalar Engineering College,Chennai",2023,Information technology,OBC,11724,49568
+243,"Panimalar Engineering College,Chennai",2023,Information technology,SC,,
+243,"Panimalar Engineering College,Chennai",2023,Information technology,ST,,
+243,"Panimalar Engineering College,Chennai",2023,Electronics and Communication,GENERAL,10684,46550
+243,"Panimalar Engineering College,Chennai",2023,Electronics and Communication,OBC,14237,58681
+243,"Panimalar Engineering College,Chennai",2023,Electronics and Communication,SC,,
+243,"Panimalar Engineering College,Chennai",2023,Electronics and Communication,ST,,
+243,"Panimalar Engineering College,Chennai",2023,Electrical and Electronics,GENERAL,13542,66960
+243,"Panimalar Engineering College,Chennai",2023,Electrical and Electronics,OBC,14647,80812
+243,"Panimalar Engineering College,Chennai",2023,Electrical and Electronics,SC,56841,96851
+243,"Panimalar Engineering College,Chennai",2023,Electrical and Electronics,ST,,
+243,"Panimalar Engineering College,Chennai",2023,Mechanical Engineering,GENERAL,21652,99188
+243,"Panimalar Engineering College,Chennai",2023,Mechanical Engineering,OBC,85392,166790
+243,"Panimalar Engineering College,Chennai",2023,Mechanical Engineering,SC,142153,177640
+243,"Panimalar Engineering College,Chennai",2023,Mechanical Engineering,ST,,
+243,"Panimalar Engineering College,Chennai",2023,Artificial Intelligence and Data Science,GENERAL,11284,42717
+243,"Panimalar Engineering College,Chennai",2023,Artificial Intelligence and Data Science,OBC,15634,50932
+243,"Panimalar Engineering College,Chennai",2023,Artificial Intelligence and Data Science,SC,,
+243,"Panimalar Engineering College,Chennai",2023,Artificial Intelligence and Data Science,ST,,
+243,"Panimalar Engineering College,Chennai",2023,Artificial Intelligence and Machine Learning,GENERAL,11682,50605
+243,"Panimalar Engineering College,Chennai",2023,Artificial Intelligence and Machine Learning,OBC,15645,51408
+243,"Panimalar Engineering College,Chennai",2023,Artificial Intelligence and Machine Learning,SC,,
+243,"Panimalar Engineering College,Chennai",2023,Artificial Intelligence and Machine Learning,ST,,
